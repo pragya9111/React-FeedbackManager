@@ -1,0 +1,39 @@
+.container2{
+    width: 100vw;
+    height: 90vh;
+    /* background-color: aliceblue; */
+    display: flex;
+    align-items: center;
+}
+.card{
+    width: 100vw;
+    height: 37vh;
+    /* background-color: aliceblue; */
+    display: flex;
+}
+.details{
+    width: 16vw;
+    height: 37vh;
+    background-color: #f5b46531;
+    margin-left: 3vmax;
+    padding: 2vmin;
+    backdrop-filter: blur(5px);
+    color: white;
+}
+p{
+    font-family: frock;
+    font-weight: 900;
+    line-height: 4.5vmin;
+}
+span{
+    font-family: gilroy;
+    font-weight: 700;
+}
+i{
+    font-size: 2.5vmin;
+    line-height: 5vmin;
+}
+h2{
+    color: white;
+    margin-left: 2vmax;
+}

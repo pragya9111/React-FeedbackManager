@@ -1,0 +1,11 @@
+.nav{
+    width: 100vw;
+    height: 10vh;
+    background-color:#7d482461;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: banana yeti;
+    color: white;
+    letter-spacing: 2px;
+}
